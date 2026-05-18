@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "exportedAt": "2026-05-19T00:00:00.000Z",
+  "user": {
+    "id": "demo-moderator-user",
+    "email": "demo@checkpulse.local",
+    "username": "DemoPlayer",
+    "avatar": "♟",
+    "coachId": "anime",
+    "createdAt": "2026-05-19T00:00:00.000Z"
+  },
+  "stats": {
+    "userId": "demo-moderator-user",
+    "wins": 3,
+    "losses": 2,
+    "draws": 1,
+    "gamesPlayed": 6,
+    "lastPlayedAt": "2026-05-19T00:00:00.000Z"
+  },
+  "games": []
+}
