@@ -252,7 +252,6 @@ But the way people experience chess can still be reinvented.
 
 > Шахматная платформа нового поколения, где каждый матч становится содержательным.
 
-![баннер](https://placehold.co/1200x500?text=Checkmate+Reels)
 
 ---
 
